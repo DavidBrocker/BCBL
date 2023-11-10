@@ -1,0 +1,11 @@
+---
+title: "Lab Wesbite"
+---
+
+# Building a Website
+
+Go to [Github.com](github.com) and make an account:
+
+-   Team Size of 2-5
+
+-   Collaborative Coding
