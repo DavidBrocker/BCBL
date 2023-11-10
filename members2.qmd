@@ -1,0 +1,44 @@
+---
+title: "Members"
+about:
+    template: jolla
+    image: profile.jpg
+    image-width: 50%
+    links:
+    - icon: linkedin
+      text: ""
+      href: www.linkedin.com/in/allison-caldwell-7872b7267
+    - icon: github
+      text: ""
+      href: 
+    - icon: medium
+      text: ""
+      href: 
+    - icon: send
+      text: ""
+      href: mailto:caldab@farmingdale.edu
+---
+
+## Lab Members
+
+**Name**: Dave Brocker
+
+**Degree**: MA, Experimental Psychology
+
+**Research** Interests: Morbid Curiosity, Person Perception
+
+![](images/IMG_4360_2.jpg){width="214"}
+
+**Name**: Hardeep Singh
+
+**Degree**: BS, Applied Psychology (IP)
+
+**Research** Interests: Clinical Psychology
+
+![](images/yearbookpic.jpg){width="234"}
+
+**Name:** Allison (Allie) Caldwell
+
+**Degree:** BS, Applied Psychology (IP)
+
+**Research Interests:** Clinical and Cognitive Psychology
