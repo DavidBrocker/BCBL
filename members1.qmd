@@ -1,0 +1,44 @@
+---
+title: "Members"
+about:
+    template: jolla
+    image: profile.jpg
+    image-width: 50%
+    links:
+    - icon: linkedin
+      text: ""
+      href: https://www.linkedin.com/in/hardeep-singh-b38721291/
+    - icon: github
+      text: ""
+      href: https://github.com/HardeepS02
+    - icon: medium
+      text: ""
+      href: https://medium.com/@davidabrocker
+    - icon: send
+      text: ""
+      href: mailto:davidabrocker@gmail.com
+---
+
+## Lab Members
+
+**Name**: Dave Brocker
+
+**Degree**: MA, Experimental Psychology
+
+**Research** Interests: Morbid Curiosity, Person Perception
+
+![](images/IMG_4360_2.jpg){width="214"}
+
+**Name**: Hardeep Singh
+
+**Degree**: BS, Applied Psychology (IP)
+
+**Research** Interests: Clinical Psychology
+
+![](images/yearbookpic.jpg){width="234"}
+
+**Name:** Allison (Allie) Caldwell
+
+**Degree:** BS, Applied Psychology (IP)
+
+**Research Interests:** Clinical and Cognitive Psychology
