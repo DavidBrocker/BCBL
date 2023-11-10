@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Facial Emotional Recognition (FER)\nThe work of Dr. Hauschild deals with the ability of infants, neurotypical, and neurodivergent individuals and how well they process emotional features of faces and voices.\n\n\nMorbid Curiosity"
+  },
+  {
+    "objectID": "members2.html",
+    "href": "members2.html",
+    "title": "Members",
+    "section": "",
+    "text": "Name: Allison (Allie) Caldwell\nDegree: BS, Applied Psychology (IP)\nResearch Interests: Clinical and Cognitive Psychology"
+  },
+  {
+    "objectID": "members2.html#lab-members",
+    "href": "members2.html#lab-members",
+    "title": "Members",
+    "section": "",
+    "text": "Name: Allison (Allie) Caldwell\nDegree: BS, Applied Psychology (IP)\nResearch Interests: Clinical and Cognitive Psychology"
+  },
+  {
     "objectID": "members.html",
     "href": "members.html",
     "title": "Members",
@@ -26,5 +47,33 @@
     "title": "Lab Wesbite",
     "section": "",
     "text": "Building a Website\nGo to Github.com and make an account:\n\nTeam Size of 2-5\nCollaborative Coding"
+  },
+  {
+    "objectID": "members1.html",
+    "href": "members1.html",
+    "title": "Members",
+    "section": "",
+    "text": "Name: Hardeep Singh\nDegree: BS, Applied Psychology (IP)\nResearch Interests: Clinical Psychology"
+  },
+  {
+    "objectID": "members1.html#lab-members",
+    "href": "members1.html#lab-members",
+    "title": "Members",
+    "section": "",
+    "text": "Name: Hardeep Singh\nDegree: BS, Applied Psychology (IP)\nResearch Interests: Clinical Psychology"
+  },
+  {
+    "objectID": "members3.html",
+    "href": "members3.html",
+    "title": "Members",
+    "section": "",
+    "text": "Name: Dr. Kate Hauschild\nDegree: PhD, Developmental Cognitive Psychology\nResearch Interests: \n\n1) explore the connection between early cognitive and social communication deficits associated with ASD, 2) examine how these deficits may have cascading effects on social functioning and interaction later in life, and 3) apply this knowledge to the development and implementation of early intervention programs."
+  },
+  {
+    "objectID": "members3.html#lab-members",
+    "href": "members3.html#lab-members",
+    "title": "Members",
+    "section": "",
+    "text": "Name: Dr. Kate Hauschild\nDegree: PhD, Developmental Cognitive Psychology\nResearch Interests: \n\n1) explore the connection between early cognitive and social communication deficits associated with ASD, 2) examine how these deficits may have cascading effects on social functioning and interaction later in life, and 3) apply this knowledge to the development and implementation of early intervention programs."
   }
 ]
